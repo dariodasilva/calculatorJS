@@ -7,13 +7,13 @@ import * as serviceWorker from './serviceWorker';
 ReactDOM.render(
 
     <div>
-        <h1>Calculadora</h1>
+        <h1>Maxpanelpath</h1>
         <Calculator />
 
-        
+
     </div>
 
-, document.getElementById('root'));
+    , document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
